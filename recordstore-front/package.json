@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
-    "postcss": "^8.2.1",
+    "postcss": "^8.2.10",
     "tailwind": "^4.0.0",
     "tailwindcss": "^2.0.2",
     "vue": "^2.5.2",
